@@ -7,4 +7,4 @@
 - This is a footnote sample [^1]
 [^1]: FOOTNOTE
 
-***complete***
+**complete**
