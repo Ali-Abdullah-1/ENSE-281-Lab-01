@@ -7,10 +7,4 @@
 - This is a footnote sample [^1]
 [^1]: FOOTNOTE
 
-'''
-{
-    "First Name": Ali,
-    "Last Name": Abdullah,
-    "Code Name": Felix
-}
-'''
+## Note: Some elements were not working as expected...
